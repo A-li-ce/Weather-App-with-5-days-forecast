@@ -5,12 +5,12 @@
     font-family: cursive;
 }
 
-html, body {
+/* html, body {
     height: 100%;
     margin: 0;
     padding: 0;
     overflow: hidden;
-}
+} */
 
 body {
     background: url('clouds-8353592_1280.jpg') no-repeat center center/cover;
